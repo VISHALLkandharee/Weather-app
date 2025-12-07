@@ -1,0 +1,18 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="url(#paint0_linear_rain_bg)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50 25C50 18.9249 45.0751 14 39 14C35.5 14 32.5 15.5 30.5 18C28 16.5 25 16 22 18C18 21 17 26 19 30C16 32 15 36 17 40C20 45 26 48 32 47C35 49 39 50 43 48C47 46 50 42 50 37C50 32 50 28 50 25Z" fill="#A9A9A9"/>
+<!-- Rain drops -->
+<path d="M25 45L25 55" stroke="#4169E1" stroke-width="2" stroke-linecap="round"/>
+<path d="M30 40L30 52" stroke="#4169E1" stroke-width="2" stroke-linecap="round"/>
+<path d="M35 42L35 54" stroke="#4169E1" stroke-width="2" stroke-linecap="round"/>
+<path d="M40 38L40 50" stroke="#4169E1" stroke-width="2" stroke-linecap="round"/>
+<path d="M45 44L45 56" stroke="#4169E1" stroke-width="2" stroke-linecap="round"/>
+<path d="M50 41L50 53" stroke="#4169E1" stroke-width="2" stroke-linecap="round"/>
+<defs>
+<linearGradient id="paint0_linear_rain_bg" x1="0" y1="0" x2="72" y2="72" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B0C4DE"/>
+<stop offset="1" stop-color="#E6E6FA"/>
+</linearGradient>
+</defs>
+</svg>
+

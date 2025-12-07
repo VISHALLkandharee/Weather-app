@@ -1,0 +1,15 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="36" cy="36" r="30" fill="url(#paint0_linear_night)"/>
+<circle cx="50" cy="25" r="3" fill="white" opacity="0.8"/>
+<circle cx="60" cy="40" r="2" fill="white" opacity="0.6"/>
+<circle cx="45" cy="50" r="2.5" fill="white" opacity="0.7"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50 25C50 18.9249 45.0751 14 39 14C35.5 14 32.5 15.5 30.5 18C28 16.5 25 16 22 18C18 21 17 26 19 30C16 32 15 36 17 40C20 45 26 48 32 47C35 49 39 50 43 48C47 46 50 42 50 37C50 32 50 28 50 25Z" fill="#E6E6FA" opacity="0.6"/>
+<defs>
+<linearGradient id="paint0_linear_night" x1="6" y1="6" x2="66" y2="66" gradientUnits="userSpaceOnUse">
+<stop stop-color="#191970"/>
+<stop offset="0.5" stop-color="#4169E1"/>
+<stop offset="1" stop-color="#1E90FF"/>
+</linearGradient>
+</defs>
+</svg>
+
